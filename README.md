@@ -1,30 +1,16 @@
-# This is a large heading
+# Tinatin Baratashvili
+### Geography
+I live in the city of Leuven, in Belgium.
 
-## This is a smaller heading
+### Reading
+Currently I'm reading "Samxretuli spilo" , but I don't like it much.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Food 
+I'm going to cook a mushroom soup today, if I'm not very lazy to do it.
+I also have:
+1. Katleti
+2. kvercxi
+3. Mawonii
 
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### Contact
+The best way to get in touch with me is [on Facebook](https://www.facebook.com/tiko.baratashvili)
